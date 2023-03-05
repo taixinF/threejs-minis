@@ -11,7 +11,7 @@ export function Words() {
                     height={0.065}
                     curveSegments={12}
                 >
-                    CZ1657
+                    CZ2019
                     <meshStandardMaterial color={[1, 0.15, 0.1]} emissive={[1, 0.1, 0]}/>
                 </Text3D>
             </Float>
